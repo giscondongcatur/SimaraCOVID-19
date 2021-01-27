@@ -8521,7 +8521,7 @@ button.bg-dark:focus {
 
 .mt-5,
 .my-5 {
-  margin-top: 5rem !important;
+  margin-top: 2rem !important;
 }
 
 .mr-5,
@@ -8531,7 +8531,7 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 5rem !important;
+  margin-bottom: 1rem !important;
 }
 
 .ml-5,
@@ -11115,6 +11115,7 @@ header.masthead .masthead-heading {
     font-style: italic;
     line-height: 2.25rem;
     margin-bottom: 2rem;
+    margin-top: 3rem;
   }
 
   header.masthead .masthead-heading {
