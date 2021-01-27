@@ -8531,7 +8531,7 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 0rem !important;
+  margin-bottom: 1rem !important;
 }
 
 .ml-5,
@@ -11097,7 +11097,7 @@ header.masthead .masthead-subheading {
 }
 
 header.masthead .masthead-heading {
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight: 700;
   line-height: 3.25rem;
   margin-bottom: 2rem;
